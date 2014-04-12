@@ -1,0 +1,36 @@
+{
+  "name": "ash-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/brejep/ash-js",
+  "authors": [
+    "Brett Jephson <brett.jephson@thaumatrope.co.uk>"
+  ],
+  "description": "A Javascript port of Ash Framework, an entity-based framework for game development",
+  "main": "build/ash.js",
+  "keywords": [
+    "game",
+    "development",
+    "entity",
+    "components",
+    "framework",
+    "Ash"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "d1b83e3b5bbec91269cdd105f5b6dd02680523aa"
+  },
+  "_source": "git://github.com/brejep/ash-js.git",
+  "_target": "~1.0.0",
+  "_originalSource": "ash-js",
+  "_direct": true
+}
