@@ -1,0 +1,19 @@
+{
+  "name": "dumplings",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jmmk/dumplings",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ash-js": "~1.0.0",
+    "easeljs": "*",
+    "requirejs": "~2.1.11",
+    "createjs-preloadjs": "*"
+  }
+}
